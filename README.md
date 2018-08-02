@@ -1,29 +1,26 @@
-# LOOKIN' FOR ADVENTURE - HEAD OUT ON THE HIGHWAY
+# GOTTA CATCH 'EM ALL - ON THE ROAD TO THE POKEMON LEAGUE
 
-Word has just come from the higher-ups, and you're in charge of building out a domain that keeps track of cars, their owners, and the mechanics that service them.  Each car has its own classification, like "antique", "exotic", or "clunker", and each mechanic has a specialization (these are the same as car classifications).  You don't want to take your sweet souped up '94 Camaro to some jerk that specializes in beamers right?
+You just turned ten-years old and are taking the Pokemon trainer license exam. In order to pass you need to show you understand the relationship between trainers, pokemon and pokeballs. Each pokeball has its own type, like "master", "ultra", or "great", and each pokemon has a level (these are the same as pokeball type).  You can't catch a legendary with just any pokeball, right?
 
-Each CarOwner may have a ton of cars, but these folks are fanatical about their maintenance, and only see one mechanic per car.
-
-The basics have been built out for you, but you'll need to figure out the relationships and create most of the methods.  Hook it up!
+Each trainer may have a ton of pokemon, but as all trainers know, and only one pokemon can fit inside a single pokeball.
 
 ## Deliverables
 
 Here's what we need to be able to do.
 
-**CarOwner**
-  - Get a list of all owners
-  - Get a list of all the cars that a specific owner has
-  - Get a list of all the mechanics that a specific owner goes to
-  - Get the average amount of cars owned for all owners
+**Trainer**
+  - Get a list of trainers
+  - Get a list of all the pokeballs a specific trainer has
+  - Get a list of all the pokemon a specific trainer has
+  - Get the average amount of pokemon owned by all trainers
 
-**Car**
-  - Get a list of all cars
-  - Get a list of all car classifications
-  - Get a list of mechanics that have an expertise that matches the car classification
+**Pokeball**
+  - Get a list of all pokeballs
+  - Get a list of all pokeball types
+  - Get a list of pokemon that have an level that matches the pokeball type
 
-**Mechanic**
-  - Get a list of all mechanics
-  - Get a list of all cars that a mechanic services
-  - Get a list of all the car owners that go to a specific mechanic
-  - Get a list of the names of all car owners who
-  go to a specific mechanic
+**Pokemon**
+  - Get a list of all pokemon
+  - Get pokeball containing a pokemon
+  - Get the name of the trainer a pokemon belongs to
+  - Get a list of the names of all trainers who own a specific pokemon
