@@ -2,7 +2,7 @@
 
 You just turned ten-years old and are taking the Pokemon trainer license exam. In order to pass you need to show you understand the relationship between trainers, pokemon and pokeballs. Each pokeball has its own type, like "master", "ultra", or "great", and each pokemon has a level (these are the same as pokeball type).  You can't catch a legendary with just any pokeball, right?
 
-Each trainer may have a ton of pokemon, but as all trainers know, and only one pokemon can fit inside a single pokeball.
+Each trainer may have a ton of pokemon but, as all trainers know, only one pokemon can fit inside a single pokeball.
 
 ## Deliverables
 
